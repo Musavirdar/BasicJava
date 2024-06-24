@@ -14,6 +14,7 @@ class Phone extends SmartPhone {
     public void welcome(){
         System.out.println("you are welcome:");
     }
+
     public void methh(){
         System.out.println("i am method in sub-class:");
     }
