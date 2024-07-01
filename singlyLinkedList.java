@@ -70,7 +70,7 @@ class singlyLinkedList{
 
     }
 }
-public class linkedll {
+public class singlyLinkedList {
     public static void main(String[] args) {
         singlyLinkedList sl = new singlyLinkedList();
         sl.Append(45);
